@@ -19,5 +19,6 @@ Require packages:
   4. Adafruit PCA9685 
 
 Reference:
+How video source display in tkinter - https://solarianprogrammer.com/2018/04/21/python-opencv-show-video-tkinter-window/
 Connection of RPi, servo controller and servos - https://zhuanlan.zhihu.com/p/22805173
 Installation of Adafruit PCA9685 - https://www.youtube.com/watch?v=ZEg2IjACG9s
